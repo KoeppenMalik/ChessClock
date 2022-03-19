@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChessClock</string>
+    <string name="app_label">Schachuhr</string>
+    <string name="start">Start</string>
+    <string name="time_selection">Zeitauswahl</string>
+    <string name="time">Zeit</string>
+    <string name="minutes">Min</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+</resources>
